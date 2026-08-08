@@ -1,0 +1,1 @@
+import { gtaCities } from "@/data/gtaCities"; export default function GTAResources(){return (<section className="bg-white py-20"><div className="mx-auto max-w-7xl px-6"><h2 className="text-4xl font-bold">GTA 月子资源</h2><div className="mt-8 grid gap-4 md:grid-cols-3">{gtaCities.map(c=><div key={c} className="rounded-2xl border p-6">{c}</div>)}</div></div></section>);}

@@ -1,0 +1,1 @@
+export default function JiahuaCTA(){return (<section className="py-24"><div className="mx-auto max-w-4xl px-6 text-center"><h2 className="text-4xl font-bold">寻找专业月子餐服务？</h2></div></section>);}
